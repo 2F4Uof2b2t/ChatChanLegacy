@@ -1,0 +1,36 @@
+name: ChatChanLegacy
+author: Sasha
+description: chanchan for beta mc
+main: com.sashachatchan.Main
+version: 1.0
+commands:
+  w:
+    description: Whisper
+    usage: /w player message
+  whisper:
+    description: Whisper
+    usage: /whisper player message
+  msg:
+    description: Whisper
+    usage: /msg player message
+  t:
+    description: Whisper
+    usage: /t player message
+  tell:
+    description: Whisper
+    usage: /tell player message
+  ignore:
+    description: Ignore
+    usage: /ignore player
+  r:
+    description: reply
+    usage: /r player
+  l:
+    description: reply
+    usage: /l player
+  togglechat:
+    description: turn chat off
+    usage: /<command>
+  ignorelist:
+    description: list ignored players
+    usage: /<command>
